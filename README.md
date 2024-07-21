@@ -4,7 +4,7 @@ Welcome to this absolutely crucial GitHub repository, meticulously crafted for t
 
 ## Purpose
 
-This repository exists for the singular purpose of celebrating the one and only Sadiya Rehman. Here, you'll find all the digital magic and educational wonders that were conjured up to make her birthday an unforgettable event.
+This repository exists for the singular purpose of celebrating the one and only Sadiya Rahman. Here, you'll find all the digital magic and educational wonders that were conjured up to make her birthday an unforgettable event.
 
 ## Contents
 
