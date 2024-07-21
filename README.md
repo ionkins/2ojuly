@@ -1,6 +1,6 @@
 # Sadiya's Birthday Repository 🎉
 
-Welcome to this absolutely crucial GitHub repository, meticulously crafted for the grand occasion of Sadiya Rehman's birthday (and oh, for "educational purposes" too, we guess).
+Welcome to this absolutely crucial GitHub repository, meticulously crafted for the grand occasion of Sadiya Rahman's birthday (and oh, for "educational purposes" too, we guess).
 
 ## Purpose
 
